@@ -1,0 +1,3 @@
+[submodule "seed-processor/docker/resources/universal-pokemon-randomizer-zx"]
+	path = seed-processor/docker/resources/universal-pokemon-randomizer-zx
+	url = git@github.com:snowpyxy/universal-pokemon-randomizer-zx.git
